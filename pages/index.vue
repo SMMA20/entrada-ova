@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  name: 'EntradaOva',
+  name: 'ova',
   
   computed: {
     backgroundStyle() {
